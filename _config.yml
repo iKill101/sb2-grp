@@ -26,6 +26,9 @@ baseurl: "/sb2-grp" # the subpath of your site, e.g. /blog
 url: "https://ikill101.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: solnsbybrendan
 #github_username:  jekyll
+facebook_username: solutionsbybrendan
+
+title-logo: /images/logo.png
 
 # Build settings
 # theme: minima
