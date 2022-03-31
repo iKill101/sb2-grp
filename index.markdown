@@ -11,7 +11,7 @@ layout: page
     max-width: 600px;
     text-align: center;
     background-color: white;
-    box-shadow: 0px 0px 15px 0px #000000;
+    box-shadow: inset 0px 0px 15px 5px #000000;
     padding-bottom: 2px;
     padding-top: 1px;
   }
