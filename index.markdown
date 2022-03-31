@@ -20,9 +20,7 @@ layout: page
 </style>
 
 <div class="container">
-  <h1>404</h1>
+  <h1>Solutions By Brendan</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-  <p>Not really... I just haven't changed from the default 404 layout I stole</p>
+  <p><strong>We provide all-in-one solutions for you and your business</strong></p>
 </div>
