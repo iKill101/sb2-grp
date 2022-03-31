@@ -22,7 +22,8 @@ layout: page
     letter-spacing: -1px;
   }
   .page-content {
-      background-color: lightblue;
+       background: rgb(2,0,36);
+       background: linear-gradient(36deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 25%, rgba(0,212,255,1) 100%); 
   }
 </style>
 
