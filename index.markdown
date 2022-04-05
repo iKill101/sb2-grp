@@ -8,9 +8,15 @@ layout: page
 <style type="text/css" media="screen">
   .title-container {
     margin: 10px auto;
-    max-width: 600px;
+    #max-width: 600px;
     text-align: center;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     background-color: white;
+    background-image: url("/images/servers-closeup.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
     #box-shadow: inset 0px 0px 5px 1px #000000;
     #padding-bottom: 2px;
     #padding-top: 1px;
@@ -30,9 +36,10 @@ layout: page
       max-width: 80%;
       margin-right: auto;
       margin-left: auto;
+      box-shadow: 0px 8px 15px 5px rgba(0,0,0,0.4);
   }
 </style>
-
+<div class="background-img"></div>
 <div class="title-container">
   <h1>Solutions By Brendan</h1>
 
