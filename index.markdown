@@ -14,12 +14,14 @@ layout: page
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     background-color: white;
     background-image: url("/images/servers-closeup.jpg");
-    background-position: center; /* Center the image */
+    #background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
-    #box-shadow: inset 0px 0px 5px 1px #000000;
     #padding-bottom: 2px;
     #padding-top: 1px;
+  }
+  .header-img-shadow {
+    box-shadow: inset 0px -20px 10px -5px rgba(0,0,0,0.5);
   }
   h1 {
     margin: 30px 0;
@@ -38,17 +40,39 @@ layout: page
       margin-left: auto;
       box-shadow: 0px 8px 15px 5px rgba(0,0,0,0.4);
   }
+
+  .main-content {
+    text-align: center;
+  }
+  .grid {
+  display: flex;
+  }
+.col-1-2 {
+  flex: 1;
+ }
+.cole-1-2:last-child {
+  margin-left: 20px;
+ }
 </style>
 <div class="background-img"></div>
 <div class="title-container">
+  <br>
   <h1>Solutions By Brendan</h1>
 
-  <p><strong>We provide all-in-one solutions for you and your business</strong></p>
+  <h3><strong>We provide all-in-one solutions for you and your business</strong></h3>
 
   <br>
+  <h4>Check out what we can offer you and your business <a href="/services/">here</a></h4>
   <br>
   <br>
   <br>
-  <br>
+<div class="header-img-shadow"><br></div>
+</div>
 
+<div class="main-content">
+<div class="grid">
+  <div class="col-1-2">Column 1</div>
+  <div class="col-1-2">Column 2</div>
+  <div class="col-1-2">Column 3</div>
+</div>
 </div>
