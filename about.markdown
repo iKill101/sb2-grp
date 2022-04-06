@@ -45,7 +45,8 @@ permalink: /about/
   }
   .column {
   float: left;
-  width: 33.33%;
+  width: 33%;
+  padding-top: 10px;
 }
 .row:after {
   content: "";
