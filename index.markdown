@@ -42,6 +42,7 @@ layout: page
   }
   .main-content {
     text-align: center;
+    padding: 10px;
   }
   .column {
   float: left;
