@@ -75,17 +75,20 @@ layout: page
 
 <div class="main-content">
 <div class="row">
-  <div class="column">Column 1
+  <div class="column"><i class="fa-solid fa-server fa-8x"></i>
     <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <h2>Need new tech?</h2>
+    Setting up a new business and need some tech to go along with it? Want to replace your ageing fleet? We're your experts!
   </div>
-  <div class="column">Column 2
+  <div class="column"><i class="fa-solid fa-earth-oceania fa-8x"></i>
     <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <h2>Aussie Born and Bred</h2>
+    None of our solutions are outsourced to a different country. By hiring us, you're keeping fellow Aussies in a job. If we do outsource, we only outsource locally!
   </div>
-  <div class="column">Column 3
+  <div class="column"><i class="fa-solid fa-comments fa-8x"></i>
     <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <h2>Full transparency</h2>
+    We offer no bulls**t approaches to our work. Nothing is kept hidden, and you'll be kept informed along the entire journey.
   </div>
 </div>
 </div>
