@@ -95,7 +95,7 @@ I’m a volunteer at my local Rural Fire Service Brigade and the historic Lachla
 <h2>Partners</h2>
 <div class="row">
   <div class="column">
-    <img src="/images/Linode-Partner-Badge.png" alt="Linode Solutions Partner" />
+    <img src="/images/Linode-Partner-Badge.png" alt="Linode Solutions Partner" style="height:80%;width:80%;" />
   </div>
   <div class="column">
     <img src="/images/Lenovo-PC-Partner.png" alt="Lenovo PC Partner" style="height:50%;width:50%;" />
