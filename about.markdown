@@ -41,6 +41,7 @@ permalink: /about/
   }
   .main-content {
     text-align: center;
+    padding: 10px;
   }
   .column {
   float: left;
@@ -55,6 +56,14 @@ permalink: /about/
   .column {
     width: 100%;
   }
+}
+.self-img {
+    border-radius: 100%;
+    overflow: hidden;
+    height: 40%;
+    max-width: 15%;
+    margin-right: auto;
+    margin-left: auto;
 }
 </style>
 <div class="background-img"></div>
@@ -72,25 +81,42 @@ permalink: /about/
 </div>
 
 <div class="main-content">
-Test content lorem ipsum and stuff
+<div class="self-img">
+    <img src="/images/self-portrait.jpg" />
+</div>
+<h2>G’day, I’m Brendan.</h2>
+I’m a friendly, approachable, down-to-earth guy who has a life-long passion for IT. I have many courses (Certificates and Diplomas) under my belt, so whether you’re after something simple to something complex, you know you’re in the right hands with me! My hobbies include anything (and I mean anything!) computers, photography and driving. 
 <br>
 <br>
+I’m a volunteer at my local Rural Fire Service Brigade and the historic Lachlan Valley Railway where I continuously engage with people. I am based in Western Sydney and come to you for your IT computer problems. If you want someone who is reliable, passionate about anything computers, and who doesn’t charge an arm and a leg, I’m your man!
+<br>
+<br>
+<br>
+<h2>Partners</h2>
 <div class="row">
-  <div class="column"><i class="fa-solid fa-server fa-8x"></i>
-    <br>
-    <h2>Need new tech?</h2>
-    Setting up a new business and need some tech to go along with it? Want to replace your ageing fleet? We're your experts!
+  <div class="column">
+    <img src="/images/Linode-Partner-Badge.png" alt="Linode Solutions Partner" />
   </div>
-  <div class="column"><i class="fa-solid fa-earth-oceania fa-8x"></i>
-    <br>
-    <h2>Aussie Born and Bred</h2>
-    None of our solutions are outsourced to a different country. By hiring us, you're keeping fellow Aussies in a job. If we do outsource, we only outsource locally!
+  <div class="column">
+    <img src="/images/Lenovo-PC-Partner.png" alt="Lenovo PC Partner" style="height:50%;width:50%;" />
   </div>
-  <div class="column"><i class="fa-solid fa-comments fa-8x"></i>
-    <br>
-    <h2>Full transparency</h2>
-    We offer no bulls**t approaches to our work. Nothing is kept hidden, and you'll be kept informed along the entire journey.
+  <div class="column">
+    <img src="/images/Lenovo-DC-Partner.png" alt="Lenovo Datacenter Partner" style="height:50%;width:50%;" />
   </div>
 </div>
+<br>
+<br>
+<br>
+
+<h2>My Vision</h2>
+We’ve all been there; for example, shopping for a new TV and the sales associate tells you “You need X device to go with the TV”. They don’t know you, how you’ll use your TV, or if your internet connection can sustain streaming something like Netflix or Amazon Prime; they just apply the cookie cutter approach and assume that’s what you need. It’s something that grinds my gears.
+<br>
+<br>
+I’ve always been a big believer in listening to what the customer needs, and finding a solution which is tailor made to their industry or requirements; saving them money and headaches in the long run.
+<br>
+<br>
+From customers who are just getting started, to multi-million dollar companies; I’ve delivered solutions which are tailor made for them. I despise IT Management companies who apply a cookie-cutter technique to every single user.
+<br>
+<br>
 <br>
 </div>
