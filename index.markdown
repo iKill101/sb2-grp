@@ -91,4 +91,5 @@ layout: page
     We offer no bulls**t approaches to our work. Nothing is kept hidden, and you'll be kept informed along the entire journey.
   </div>
 </div>
+<br>
 </div>
