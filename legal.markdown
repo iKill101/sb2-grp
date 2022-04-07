@@ -282,82 +282,102 @@ SB2 Group reserves the right, at any time, to amend or modify these Terms of Ser
 
 </div>
 
-<div id="Data Recovery" class="tabcontent">
-    <h3 style="text-align: center;">Data Recovery</h3>
-<div class="tab_content_text"><h4 style="text-align: center;">Current Version: 1.0</h4>
-<div class="c-intro__body">
-<p style="text-align: center;"><span style="font-size: 16px;"><strong>Last Updated</strong>: 01 February 2021<br> </span><span style="font-size: 16px;"><strong>Effective Date</strong>: 01 February 2021</span></p>
-<p style="text-align: center;"><span style="font-size: 16px;"></span></p>
-</div>
-<p>I confirm that I am the owner of the drive/media or agent of said owner and have permission to authorise the copying of the data from one drive/media to another or any other process deemed necessary by Solutions By Brendan. I authorise Solutions By Brendan to ship my drive/media, if they deem it necessary.</p>
-<p>I confirm that the drive/media as supplied is not fully working and will not hold Solutions By Brendan or it agents liable for any damage or loss of data caused to the drive/media or any other hardware supplied by me, before or subsequent to any work carried out upon the drive/media.</p>
-<p>I, the undersigned requester, understand and accept all risks associated with having Solutions By Brendan attempt to recover data from my media at my request. I understand that even with the exercise of due care by technicians, in order for the data to be recovered, the process itself may result in damage, to include, but not limited to, the media itself or the data on it.</p>
-<p>In consideration of Solutions By Brendan recovering or attempting to recover the data on this media, I voluntarily assume all risk of loss and/or damage to the media and agree to indemnify, hold harmless, and defend Solutions By Brendan or its employees, and any third parties from any and all claims, demands and causes of action whatsoever in law, equity, before any administrative agency or judicial tribunal arising from the aforesaid rendering of services.</p></div>
+<div id="Data Recovery" class="tabcontent" markdown="1" style="text-align: left;">
+
+
+### Data Recovery
+**Current Version: 1.0**
+
+#### Last Updated: 01 February 2021
+#### Effective Date: 01 February 2021
+
+---
+
+I confirm that I am the owner of the drive/media or agent of said owner and have permission to authorise the copying of the data from one drive/media to another or any other process deemed necessary by Solutions By Brendan. I authorise Solutions By Brendan to ship my drive/media, if they deem it necessary.
+
+I confirm that the drive/media as supplied is not fully working and will not hold Solutions By Brendan or it agents liable for any damage or loss of data caused to the drive/media or any other hardware supplied by me, before or subsequent to any work carried out upon the drive/media.
+
+I, the undersigned requester, understand and accept all risks associated with having Solutions By Brendan attempt to recover data from my media at my request. I understand that even with the exercise of due care by technicians, in order for the data to be recovered, the process itself may result in damage, to include, but not limited to, the media itself or the data on it.
+
+In consideration of Solutions By Brendan recovering or attempting to recover the data on this media, I voluntarily assume all risk of loss and/or damage to the media and agree to indemnify, hold harmless, and defend Solutions By Brendan or its employees, and any third parties from any and all claims, demands and causes of action whatsoever in law, equity, before any administrative agency or judicial tribunal arising from the aforesaid rendering of services.
+
 </div>
 
-<div id="SRA" class="tabcontent">
-<h3 style="text-align: center;">Standard Repair Agreement</h3>
-<div class="tab_content_text"><h4 style="text-align: center;">Current Version: 1.0</h4>
-<div class="c-intro__body">
-<p style="text-align: center;"><span style="font-size: 16px;"><strong>Last Updated</strong>: 01 February 2021<br> </span><span style="font-size: 16px;"><strong>Effective Date</strong>: 01 February 2021</span></p>
-</div>
-<p><strong></strong></p>
-<p><strong>REGARDING REPAIR SERVICES:</strong></p>
-<p><strong>WE’RE ALLOWED TO WORK ON YOUR DEVICE.</strong></p>
-<p>You are authorising Solutions By Brendan (SB2) to repair to your device. You agree to not touch anything during the process to prevent damage. Touching with or interfering with the repair voids any warranties. You understand that SB2 is an independent repair agent and is not an authorised service dealer or provider.</p>
-<p><strong>ACCEPTED PAYMENT METHODS.</strong></p>
-<p>Payment methods accepted are Cash, Direct Deposit, VISA, Mastercard or AMEX. No other forms of payment are acceptable, and we reserve the right to keep a device until payment is rendered via an acceptable payment method.  </p>
-<p><strong>WE DO NOT TAKE RESPONSIBILITY FOR COSMETIC FLAWS</strong></p>
-<p>The way we state the condition of the item in the notes of item prior to repair is a brief overview and does not denote all possible defects &amp; problems with the device to be repaired. This may be edited as more problems are found, even after form is signed. Any pre-existing defects, or future defects that come up as a result of pre-existing defects are not the responsibility of, or warrantied by, Solutions By Brendan or any of its members. You accept by signing this document that how we state a device’s condition is how it was received, and that no defects or problems we state were caused by us. You acknowledge that Solutions By Brendan is not liable for any defects or problems with a device unless we specifically take responsibility for such problem or defect.</p>
-<p> We are not responsible for any scratches, dents, dings, etc. Most devices we receive are heavily damaged already. We have very strict procedures on how we handle customer devices so they leave in the same or better cosmetic condition than they came in, but in no way can we be held liable for any perceived cosmetic issues, such as – <em>“this scratch wasn’t here when it was dropped off.”</em></p>
-<p><strong><br> </strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>WE ARE IN NO WAY, SHAPE, OR FORM RESPONSIBLE FOR YOUR DATA OR HARD DRIVE.</strong></p>
-<p>On data recovery &amp; data transfer jobs, it is your responsibility to check your data in the store. You agree to sign a waiver of liability once you have seen for yourself that your data is on this drive. You accept that we are in no way liable for any data on your device for any of our offered services. We do not accept liability for data. By signing this document, you agree to two points. First point being that hard drives are a volatile, mechanical storage media that can malfunction at any time. Second point being that any hard drive malfunction cannot be blamed on Solutions By Brendan, nor may we be held responsible for any hard drive, solid state drive, solid state hybrid drive, or flash memory malfunction on any machine in our possession.</p>
-<p><strong>By accepting these terms of service, you accept that we are in no way liable for your data. </strong></p>
-<p><strong>WARRANTY INFORMATION</strong></p>
-<p>Limited warranty on service is 1 year on LCD Screen replacements, 1 year on Hard drive &amp; memory replacements, and 3 months on motherboard repairs &amp; replacements. Warranty may be voided by further physical damage to the device, negligence, or liquid damage. Warranty is only for the specific part we have replaced and not for any other issues or parts on the device. We repair delicate devices that break easily. If you are here, the device has likely been mistreated once by a drop, spill, or shock of some sort. You accept that any future issues with other functions on the device are related to prior shock, not our workmanship. We offer warranty service only – not refunds, and any service for which one changes their mind or otherwise decides they do not want done, for any reason, requires the technician to undo repair work in order for no further monies to be owed to Solutions By Brendan.</p>
-<p><strong><br> </strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>WARRANTY DOES NOT COVER IF YOU CRACK IT, DROP IT OR SPILL LIQUID ON IT AGAIN.</strong></p>
-<p>Warranty does NOT cover a device that has suffered mishandling once it has left our workshop. By signing this document, you accept the following.</p>
-<ul>
-<li>A screen cannot crack on its own. A screen only cracks when physically impacted.</li>
-<li>It is your responsibility to inspect the device prior to receiving it back from us to ensure it was not given back to you cracked.</li>
-<li>A dent doesn’t appear by itself.</li>
-<li>Liquid doesn’t magically enter your device without a source.</li>
-</ul>
-<p>In recognition of the relative risks and benefits of the project to both the Client and the Consultant, the risks have been allocated such that the Client agrees, to the fullest extent permitted by law, to limit the liability of the Consultant to the Client for any and all claims, losses, costs, damages of any nature whatsoever or claims expenses from any cause or causes, including attorneys’ fees and costs and expert witness fees and costs, so that the total aggregate liability of the Consultant to the Client shall not exceed the Consultant’s total fee for services rendered on this project. It is intended that this limitation apply to any and all liability or cause of action however alleged or arising, unless otherwise prohibited by law.</p>
-<p>&nbsp;</p>
-<p><strong>FURTHER WARRANTY INFORMATION.</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p>Warranty will be voided if your device is opened or serviced by anyone other than SB2. Even if you are just curious and take a peek; your warranty will be voided.</p>
-<p><strong>&nbsp;</strong></p>
-<p>Work performed by SB2 technicians may void any manufacturer warranties your device may have. We do not assume any liability if your device is still under warranty and you choose to get it serviced through us.</p>
-<p>&nbsp;</p>
-<p>We will not offer warranty on any part that was not replaced by us. If we replace your SMC or a resistor, we will not warranty the CPU or any other component on the board that we didn’t touch. All chips and components are logged if we work on them.</p>
-<p>&nbsp;</p>
-<p>We only offer warranty for the originally declared fault. Your device does not fall under warranty if another issue, other than the originally declared fault, presents itself after you take receipt of the device.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>DEVICE COLLECTION POLICY</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p>You must collect or pay for your device repair within 30 days of job completion. If you don’t, your device will be deemed as “Uncollected Goods” under the Uncollected Goods Act 1995. The device may incur a storage fee if you fail to collect your device within 30 days of completion.</p>
-<p>&nbsp;</p>
-<p>We also have the right to sell or dispose of uncollected goods after the required time has elapsed; in accordance with Australian Consumer Law and the Fair Trading Act 2012 (specifically, sections 60, 61 and 62) as well as the Uncollected Goods Act 1995. If you don’t pay for, or collect your device in the required timeframe, you can’t go after us if we dispose of it or sell it.</p>
-<p>&nbsp;</p>
-<p><strong>CREDIT TERMS</strong></p>
-<p>&nbsp;</p>
-<p>SB2 does not offer any form of credit. Your device will not leave the workshop unless payment has been received in full. If you decide to perform a chargeback, you’ll be obligated to pay us the full amount, along with any fees which are incurred as a result of your chargeback attempt. This includes fees from debt collection agencies and any court fees which may be incurred.</p>
-<p>&nbsp;</p>
-<p><strong>IF WE NEED TO ORDER PARTS</strong></p>
-<p>&nbsp;</p>
-<p>If we need to order any parts for the repair, the repair time can vary. We don’t have control of the postal services in Australia or other types of delivery, and as a result we can’t guarantee you an exact timeframe. Special parts may require a further deposit to be paid upfront. These deposits are NOT refundable.</p>
-<p>&nbsp;</p>
-<p><strong>IF THE DEVICE IS FOUND TO BE STOLEN</strong></p>
-<p>&nbsp;</p>
-<p>If the device is found to be stolen, you are not going to get it back. All of your information will be forwarded to the Police, along with the stolen property.</p></div>
+<div id="SRA" class="tabcontent" markdown="1" style="text-align: left;">
+
+### Standard Repair Agreement
+**Current Version: 1.0**
+
+#### Last Updated: 01 February 2021
+#### Effective Date: 01 February 2021
+
+---
+
+**REGARDING REPAIR SERVICES:**
+
+**WE’RE ALLOWED TO WORK ON YOUR DEVICE.**
+
+You are authorising Solutions By Brendan (SB2) to repair to your device. You agree to not touch anything during the process to prevent damage. Touching with or interfering with the repair voids any warranties. You understand that SB2 is an independent repair agent and is not an authorised service dealer or provider.
+
+**ACCEPTED PAYMENT METHODS.**
+
+Payment methods accepted are Cash, Direct Deposit, VISA, Mastercard or AMEX. No other forms of payment are acceptable, and we reserve the right to keep a device until payment is rendered via an acceptable payment method.
+
+**WE DO NOT TAKE RESPONSIBILITY FOR COSMETIC FLAWS**
+
+The way we state the condition of the item in the notes of item prior to repair is a brief overview and does not denote all possible defects & problems with the device to be repaired. This may be edited as more problems are found, even after form is signed. Any pre-existing defects, or future defects that come up as a result of pre-existing defects are not the responsibility of, or warrantied by, Solutions By Brendan or any of its members. You accept by signing this document that how we state a device’s condition is how it was received, and that no defects or problems we state were caused by us. You acknowledge that Solutions By Brendan is not liable for any defects or problems with a device unless we specifically take responsibility for such problem or defect.
+
+We are not responsible for any scratches, dents, dings, etc. Most devices we receive are heavily damaged already. We have very strict procedures on how we handle customer devices so they leave in the same or better cosmetic condition than they came in, but in no way can we be held liable for any perceived cosmetic issues, such as – “*this scratch wasn’t here when it was dropped off*.”
+
+**WE ARE IN NO WAY, SHAPE, OR FORM RESPONSIBLE FOR YOUR DATA OR HARD DRIVE.**
+
+On data recovery & data transfer jobs, it is your responsibility to check your data in the store. You agree to sign a waiver of liability once you have seen for yourself that your data is on this drive. You accept that we are in no way liable for any data on your device for any of our offered services. We do not accept liability for data. By signing this document, you agree to two points. First point being that hard drives are a volatile, mechanical storage media that can malfunction at any time. Second point being that any hard drive malfunction cannot be blamed on Solutions By Brendan, nor may we be held responsible for any hard drive, solid state drive, solid state hybrid drive, or flash memory malfunction on any machine in our possession.
+
+**By accepting these terms of service, you accept that we are in no way liable for your data.**
+
+**WARRANTY INFORMATION**
+
+Limited warranty on service is 1 year on LCD Screen replacements, 1 year on Hard drive & memory replacements, and 3 months on motherboard repairs & replacements. Warranty may be voided by further physical damage to the device, negligence, or liquid damage. Warranty is only for the specific part we have replaced and not for any other issues or parts on the device. We repair delicate devices that break easily. If you are here, the device has likely been mistreated once by a drop, spill, or shock of some sort. You accept that any future issues with other functions on the device are related to prior shock, not our workmanship. We offer warranty service only – not refunds, and any service for which one changes their mind or otherwise decides they do not want done, for any reason, requires the technician to undo repair work in order for no further monies to be owed to Solutions By Brendan.
+
+**WARRANTY DOES NOT COVER IF YOU CRACK IT, DROP IT OR SPILL LIQUID ON IT AGAIN.**
+
+Warranty does NOT cover a device that has suffered mishandling once it has left our workshop. By signing this document, you accept the following.
+
+- A screen cannot crack on its own. A screen only cracks when physically impacted.
+- It is your responsibility to inspect the device prior to receiving it back from us to ensure it was not given back to you cracked.
+- A dent doesn’t appear by itself.
+- Liquid doesn’t magically enter your device without a source.
+
+In recognition of the relative risks and benefits of the project to both the Client and the Consultant, the risks have been allocated such that the Client agrees, to the fullest extent permitted by law, to limit the liability of the Consultant to the Client for any and all claims, losses, costs, damages of any nature whatsoever or claims expenses from any cause or causes, including attorneys’ fees and costs and expert witness fees and costs, so that the total aggregate liability of the Consultant to the Client shall not exceed the Consultant’s total fee for services rendered on this project. It is intended that this limitation apply to any and all liability or cause of action however alleged or arising, unless otherwise prohibited by law.
+
+**FURTHER WARRANTY INFORMATION.**
+
+Warranty will be voided if your device is opened or serviced by anyone other than SB2. Even if you are just curious and take a peek; your warranty will be voided.
+
+Work performed by SB2 technicians may void any manufacturer warranties your device may have. We do not assume any liability if your device is still under warranty and you choose to get it serviced through us.
+
+We will not offer warranty on any part that was not replaced by us. If we replace your SMC or a resistor, we will not warranty the CPU or any other component on the board that we didn’t touch. All chips and components are logged if we work on them.
+
+We only offer warranty for the originally declared fault. Your device does not fall under warranty if another issue, other than the originally declared fault, presents itself after you take receipt of the device.
+
+**DEVICE COLLECTION POLICY**
+
+You must collect or pay for your device repair within 30 days of job completion. If you don’t, your device will be deemed as “Uncollected Goods” under the Uncollected Goods Act 1995. The device may incur a storage fee if you fail to collect your device within 30 days of completion.
+
+We also have the right to sell or dispose of uncollected goods after the required time has elapsed; in accordance with Australian Consumer Law and the Fair Trading Act 2012 (specifically, sections 60, 61 and 62) as well as the Uncollected Goods Act 1995. If you don’t pay for, or collect your device in the required timeframe, you can’t go after us if we dispose of it or sell it.
+
+**CREDIT TERMS**
+
+SB2 does not offer any form of credit. Your device will not leave the workshop unless payment has been received in full. If you decide to perform a chargeback, you’ll be obligated to pay us the full amount, along with any fees which are incurred as a result of your chargeback attempt. This includes fees from debt collection agencies and any court fees which may be incurred.
+
+**IF WE NEED TO ORDER PARTS**
+
+If we need to order any parts for the repair, the repair time can vary. We don’t have control of the postal services in Australia or other types of delivery, and as a result we can’t guarantee you an exact timeframe. Special parts may require a further deposit to be paid upfront. These deposits are NOT refundable.
+
+**IF THE DEVICE IS FOUND TO BE STOLEN**
+
+If the device is found to be stolen, you are not going to get it back. All of your information will be forwarded to the Police, along with the stolen property.
+
 </div>
 
 
