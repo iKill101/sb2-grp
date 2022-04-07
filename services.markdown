@@ -119,22 +119,115 @@ permalink: /services/
 
 <div id="General Support" class="tabcontent">
   <h3>General Support</h3>
-  <p>Placeholder</p>
+  <h4>Hourly charges are charged for a minimum 1 hour, then in 15 minute increments</h4>
+  <table>
+   <tr>
+        <th>Service</th>
+        <th>Details</th>
+        <th>Pricing (ex. GST) per hour</th>
+    </tr>
+    <tr>
+        <td>On-Site Callout</td>
+        <td>Scheduled on-site callout (24 hours notice required)</td>
+        <td>$75</td>
+    </tr>
+    <tr>
+        <td>Unscheduled (Emergency) On-Site Callout</td>
+        <td>Same day emergency callout</td>
+        <td>$150</td>
+    </tr>
+    <tr>
+        <td>Remote Support</td>
+        <td>Support is provided via AnyDesk - <a href="https://sb2.group/remote">download AnyDesk here</a></td>
+        <td>$40</td>
+    </tr>
+    </table>
 </div>
 
 <div id="Data Recovery" class="tabcontent">
   <h3>Data Recovery</h3>
-  <p>Placeholder</p> 
+  <table>
+   <tr>
+        <th>Service</th>
+        <th>Details</th>
+        <th>Pricing (ex. GST)</th>
+    </tr>
+    <tr>
+        <td>iPhone data recovery</td>
+        <td>iPhone data recovery service - data provided back to you on USB drive</td>
+        <td>$290</td>
+    </tr>
+    <tr>
+        <td>PC/Mac Data Recovery</td>
+        <td>Data recovered will be provided back to you on an external HDD</td>
+        <td>$235</td>
+    </tr>
+    </table> 
 </div>
 
 <div id="Web Hosting" class="tabcontent">
   <h3>Web Hosting</h3>
-  <p>Placeholder</p>
+   <table>
+   <tr>
+        <th>Plan</th>
+        <th>Specifications</th>
+        <th>Pricing (ex. GST) per month</th>
+        <th>Sign up link</th>
+    </tr>
+    <tr>
+        <td>Basic</td>
+        <td>20 GB Storage,
+            100 GB Transfer,
+            1 add-on domain,
+            Unlimited databases and email accounts</td>
+        <td>$20</td>
+        <td>Sign up</td>
+    </tr>
+    <tr>
+        <td>Medium</td>
+        <td>35 GB Storage,
+            Unlimited Transfer,
+            3 add-on domains,
+            Unlimited databases and email accounts</td>
+        <td>$30</td>
+        <td>Sign up</td>
+    </tr>
+    <tr>
+        <td>Large</td>
+        <td>50 GB Storage,
+            Unlimited Transfer,
+            6 add-on domains,
+            Unlimited databases and email accounts</td>
+        <td>$45</td>
+        <td>Sign up</td>
+    </tr>
+    <tr>
+        <td>Extra Large</td>
+        <td>80 GB Storage,
+            Unlimited Transfer,
+            10 add-on domains,
+            Unlimited databases and email accounts</td>
+        <td>$70</td>
+        <td>Sign up</td>
+    </tr>
+    </table> 
 </div>
 
 <div id="MacBook Repair" class="tabcontent">
   <h3>MacBook / iMac Repair</h3>
-  <p>Placeholder</p>
+  <h3>All jobs herein require a $60 payment up front, which factors in bench time.</h3>
+  <table>
+   <tr>
+        <th>Service</th>
+        <th>Details</th>
+        <th>Pricing (ex. GST)</th>
+    </tr>
+    <tr>
+        <td>Board Level Repair</td>
+        <td>This includes water damage, or faults relating to the logic board of the device</td>
+        <td>$325</td>
+    </tr>
+    </table>
 </div>
 
   <script>
