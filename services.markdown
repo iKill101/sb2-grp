@@ -120,7 +120,7 @@ permalink: /services/
 
 <div id="General Support" class="tabcontent">
   <h3>General Support</h3>
-  <h4>Hourly charges are charged for a minimum 1 hour, then in 15 minute increments</h4>
+  <h4>Hourly rates are charged for a minimum 1 hour, then in 15 minute increments</h4>
   <table>
    <tr>
         <th>Service</th>
