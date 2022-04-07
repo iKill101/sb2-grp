@@ -11,7 +11,7 @@ permalink: /contact-us/
     color: white;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     background-color: white;
-    background-image: url("/images/servers-closeup.jpg");
+    background-image: url("/images/phones.jpg");
     #background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
