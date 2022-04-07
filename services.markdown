@@ -175,7 +175,7 @@ permalink: /services/
         <th>Pricing (ex. GST) per month</th>
     </tr>
     <tr>
-        <td>Basic<br><b>Sign Up</b></td>
+        <td>Basic<br><b><a href="https://my.sb2.group/index.php?rp=/store/shared-hosting/basic">Sign Up</a></b></td>
         <td>20 GB Storage,
             100 GB Transfer,
             1 add-on domain,
@@ -183,7 +183,7 @@ permalink: /services/
         <td>$20</td>
     </tr>
     <tr>
-        <td>Medium<br><b>Sign Up</b></td>
+        <td>Medium<br><b><a href="https://my.sb2.group/index.php?rp=/store/shared-hosting/medium">Sign Up</a></b></td>
         <td>35 GB Storage,
             Unlimited Transfer,
             3 add-on domains,
@@ -191,7 +191,7 @@ permalink: /services/
         <td>$30</td>
     </tr>
     <tr>
-        <td>Large<br><b>Sign Up</b></td>
+        <td>Large<br><b><a href="https://my.sb2.group/index.php?rp=/store/shared-hosting/large">Sign Up</a></b></td>
         <td>50 GB Storage,
             Unlimited Transfer,
             6 add-on domains,
@@ -199,7 +199,7 @@ permalink: /services/
         <td>$45</td>
     </tr>
     <tr>
-        <td>Extra Large<br><b>Sign Up</b></td>
+        <td>Extra Large<br><b><a href="https://my.sb2.group/index.php?rp=/store/shared-hosting/extra-large">Sign Up</a></b></td>
         <td>80 GB Storage,
             Unlimited Transfer,
             10 add-on domains,
