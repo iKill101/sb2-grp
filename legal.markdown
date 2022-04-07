@@ -122,7 +122,11 @@ permalink: /legal/
         <button class="tablinks" onclick="openTab(event, 'SRA')">Standard Repair Agreement</button>
 </div>
 
-<div id="Privacy Policy" class="tabcontent">
+<div id="Privacy Policy" class="tabcontent" markdown="1">
+        
+        [Markdown Test](/)
+        
+        
         <h3>Privacy Policy</h3>
         <div class="tab_content_text"><p>&nbsp;</p>
         <h4 style="text-align: center;">Current Version: 1.0</h4>
