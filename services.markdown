@@ -29,7 +29,7 @@ permalink: /services/
   }
   .page-content {
        background: rgb(2,0,36);
-       background: linear-gradient(36deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 25%, rgba(0,212,255,1) 100%); 
+       background: linear-gradient(122deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 25%, rgba(0,212,255,1) 100%); 
   }
   .wrapper {
       background-color: white;
@@ -93,6 +93,7 @@ permalink: /services/
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
+  overflow-x: auto;
 
 </style>
 
@@ -172,43 +173,38 @@ permalink: /services/
         <th>Plan</th>
         <th>Specifications</th>
         <th>Pricing (ex. GST) per month</th>
-        <th>Sign up link</th>
     </tr>
     <tr>
-        <td>Basic</td>
+        <td>Basic<br><b>Sign Up</b></td>
         <td>20 GB Storage,
             100 GB Transfer,
             1 add-on domain,
             Unlimited databases and email accounts</td>
         <td>$20</td>
-        <td>Sign up</td>
     </tr>
     <tr>
-        <td>Medium</td>
+        <td>Medium<br><b>Sign Up</b></td>
         <td>35 GB Storage,
             Unlimited Transfer,
             3 add-on domains,
             Unlimited databases and email accounts</td>
         <td>$30</td>
-        <td>Sign up</td>
     </tr>
     <tr>
-        <td>Large</td>
+        <td>Large<br><b>Sign Up</b></td>
         <td>50 GB Storage,
             Unlimited Transfer,
             6 add-on domains,
             Unlimited databases and email accounts</td>
         <td>$45</td>
-        <td>Sign up</td>
     </tr>
     <tr>
-        <td>Extra Large</td>
+        <td>Extra Large<br><b>Sign Up</b></td>
         <td>80 GB Storage,
             Unlimited Transfer,
             10 add-on domains,
             Unlimited databases and email accounts</td>
         <td>$70</td>
-        <td>Sign up</td>
     </tr>
     </table> 
 </div>
