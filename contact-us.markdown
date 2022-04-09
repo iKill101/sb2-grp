@@ -81,4 +81,7 @@ Call Us: <a href="tel:+61285997402">(02) 8599 7402</a>;
 Email: <a href="mailto:sales@sb2group.com.au">sales@sb2group.com.au</a>; or
 <br>
 Live Chat on the right hand side of the screen (adblockers may interfere with it).
+<br>
+<br>
+You can also book a meeting with me by <a href="https://outlook.office365.com/owa/calendar/SolutionsByBrendan1@sb2group.com.au/bookings/" target="_blank">clicking here!</a>
 </div>
