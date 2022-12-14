@@ -130,17 +130,17 @@ permalink: /services/
     <tr>
         <td>On-Site Callout</td>
         <td>Scheduled on-site callout (24 hours notice required)</td>
-        <td>$75</td>
+        <td>$85</td>
     </tr>
     <tr>
         <td>Unscheduled (Emergency) On-Site Callout</td>
         <td>Same day emergency callout</td>
-        <td>$150</td>
+        <td>$160</td>
     </tr>
     <tr>
         <td>Remote Support</td>
         <td>Support is provided via AnyDesk - contact Support for the link</td>
-        <td>$40</td>
+        <td>$50</td>
     </tr>
     </table>
 </div>
@@ -161,7 +161,7 @@ permalink: /services/
     <tr>
         <td>PC/Mac Data Recovery</td>
         <td>Data recovered will be provided back to you on an external HDD</td>
-        <td>$235</td>
+        <td>$255</td>
     </tr>
     </table> 
 </div>
