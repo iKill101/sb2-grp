@@ -139,7 +139,7 @@ permalink: /services/
     </tr>
     <tr>
         <td>Remote Support</td>
-        <td>Support is provided via AnyDesk - <a href="https://sb2.group/remote">download AnyDesk here</a></td>
+        <td>Support is provided via AnyDesk - contact Support for the link</td>
         <td>$40</td>
     </tr>
     </table>
